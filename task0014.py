@@ -9,3 +9,4 @@ while 2*k <= n:
 print(list1)
 
 
+
