@@ -8,4 +8,3 @@ while 2*k <= n:
         k = k*2
 print(list1)
 
-
