@@ -31,3 +31,5 @@ if discriminant > 0:
     if solution == False:
         print("Нет решения")
 
+
+
