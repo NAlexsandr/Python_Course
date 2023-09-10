@@ -16,4 +16,3 @@ for n in range(1, m + 1):
     list_1.append(a1 + (n - 1) * step)
 
 print(list_1)
-
